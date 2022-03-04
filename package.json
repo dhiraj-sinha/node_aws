@@ -1,17 +1,24 @@
 {
   "name": "node_aws",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "10.x"
-  },
+  "description": "This is just for testing for aws",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "Testing"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhiraj-sinha/node_aws.git"
+  },
+  "keywords": [
+    "nodeweb"
+  ],
+  "author": "Dhiraj",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhiraj-sinha/node_aws/issues"
+  },
+  "homepage": "https://github.com/dhiraj-sinha/node_aws#readme",
   "dependencies": {
     "express": "^4.17.3"
   }
